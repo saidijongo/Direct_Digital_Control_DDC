@@ -5,3 +5,6 @@ https://alfacomp.net/2021/03/23/heres-how-to-read-analog-signals-from-4-to-20-ma
 
 PLC-eval
 https://www.analog.com/en/resources/analog-dialogue/articles/simplified-design-of-industrial-process-control-systems.html
+
+KiCAD
+https://github.com/Synthron/SynPLC
