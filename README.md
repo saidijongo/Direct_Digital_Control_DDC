@@ -9,3 +9,4 @@ https://www.analog.com/en/resources/analog-dialogue/articles/simplified-design-o
 KiCAD
 https://github.com/Synthron/SynPLC
 https://github.com/DanielMartensson/STM32-PLC
+https://github.com/heiso/macrolev/tree/main
