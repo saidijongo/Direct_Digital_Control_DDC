@@ -10,3 +10,6 @@ KiCAD
 https://github.com/Synthron/SynPLC
 https://github.com/DanielMartensson/STM32-PLC
 https://github.com/heiso/macrolev/tree/main
+
+Library loader
+https://te.componentsearchengine.com/pcb-libraries.php?_gl=1*18sv5bu*_ga*OTA0NTg2OTAwLjE3MDQ5MTMyMjA.*_ga_
