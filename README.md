@@ -16,3 +16,5 @@ https://te.componentsearchengine.com/pcb-libraries.php?_gl=1*18sv5bu*_ga*OTA0NTg
 
 EMI filter calculator
 https://redexpert.we-online.com/we-redexpert/en/#/home
+electronicbase.net/low-pass-filter-calculator/
+
