@@ -20,4 +20,5 @@ electronicbase.net/low-pass-filter-calculator/
 
 STM32H7 disco-board
 https://github.com/lvgl/lv_port_stm32h745i_disco/tree/master
+https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=75rudals&logNo=221048533406
 
