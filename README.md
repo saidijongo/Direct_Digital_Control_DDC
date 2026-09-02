@@ -18,3 +18,6 @@ EMI filter calculator
 https://redexpert.we-online.com/we-redexpert/en/#/home
 electronicbase.net/low-pass-filter-calculator/
 
+STM32H7 disco-board
+https://github.com/lvgl/lv_port_stm32h745i_disco/tree/master
+
